@@ -1,5 +1,5 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Identity
+PHANTOM-40417
 
 # About
-I am a programmer.
+No one knows where PHANTOM-40417 came from. The first confirmed sighting occurred after an unexplained breach at a classified research facility, where every recording of the preceding eleven minutes had been erased. Security systems showed no sign of forced entry, yet something had left the facility that wasn't listed among its personnel or experiments. Since then, fragmented reports have placed the entity near unexplained network failures, abandoned laboratories, and systems that appear to have been accessed without a trace. It has never spoken, responded to communication, or displayed any verifiable motive. Some believe it is an escaped alien clone fused with an artificial intelligence; others suspect the experiment was merely the first place it was discovered. No one knows what it wants, whether it can reproduce itself, or how many others might exist. The designation PHANTOM-40417 was assigned by investigators. Whether it was ever its real name remains unknown.
